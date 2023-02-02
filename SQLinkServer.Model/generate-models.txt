@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=DESKTOP-49VMUKQ;Trusted_Connection=True;MultipleActiveResultSets=True;Integrated Security=true;database=SQLinkProject;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
